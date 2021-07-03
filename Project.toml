@@ -4,12 +4,17 @@ authors = ["Alexandros <atantos@gmail.com>"]
 version = "0.1.0"
 
 [deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CategoricalArrays = "324d7699-5711-5eae-9e2f-1d82baa6b597"
 Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
 Counters = "5a653867-b65e-5b16-a095-b1e26d522bbf"
+DataFramesMeta = "1313f7d8-7da2-5740-9ea0-a2ca25f37964"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 DocumenterTools = "35a29f4d-8980-5a13-9543-d66fff28ecb8"
+FastGroupBy = "e6aeac8e-85c6-520e-8612-effc59bc0f33"
 FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+JuliaDB = "a93385a2-3734-596a-9a66-3cfbb77141e6"
 Memoize = "c03570c3-d221-55d1-a50c-7939bbd78826"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
